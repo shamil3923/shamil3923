@@ -12,7 +12,7 @@
 - 🎓 AI/ML Undergraduate  
 - 🌱 Currently exploring **LangGraph, RAG, Gemini APIs, Streamlit, FastAPI**
 - 👯 Open to collaborate on **AI tools, RAG systems, cloud-native apps**
-- 🔭 Working on: `Hospital Agent` 🏥💡  
+- 🚀 Working on: `Hospital Agent` 🏥💡  
 - 🧠 Passionate about research, systems engineering, and AI autonomy
 
 ---
@@ -22,6 +22,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamil3923)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamil3923@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white)](https://shamil3923.vercel.app/)
+
+![Followers](https://img.shields.io/github/followers/shamil3923?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/shamil3923?label=Stars&style=social)
 
 ---
 
@@ -51,14 +54,14 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shamil3923&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shamil3923&theme=tokyonight&column=7)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamil3923&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shamil3923&count_private=true&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamil3923&layout=compact&theme=radical" alt="top-langs" />
   <img src="https://streak-stats.demolab.com?user=shamil3923&theme=radical&hide_border=false" alt="streak-stats" />
 </p>
@@ -69,4 +72,3 @@
 🧠 I love building intelligent systems that can reason, explain, and assist humans autonomously.
 
 ---
-
