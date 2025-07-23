@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shamil</h1>
-<h3 align="center">AI/ML Engineer | Full Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | GenAI & Agentic Systems Enthusiast | Full-Stack & Cloud Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shamil3923&label=Profile%20views&color=0e75b6&style=flat" alt="shamil3923" />
@@ -10,10 +10,11 @@
 ## 🚀 About Me
 
 - 🎓 AI/ML Undergraduate  
-- 🌱 Currently exploring **LangGraph, RAG, Gemini APIs, Streamlit, FastAPI,MCP**
-- 👯 Open to collaborate on **AI tools, RAG systems, cloud-native apps**
+- 🌱 Currently exploring **GenAI, RAG, LangGraph, MCP tools & servers, Gemini APIs**
+- 👯 Open to collaborate on **Agentic systems, cloud-native GenAI apps, and AI tooling**
 - 🚀 Working on: `Hospital Agent` 🏥💡  
-- 🧠 Passionate about research, systems engineering, and AI autonomy
+- 🧠 Passionate about research, system design, and autonomous AI
+- 💼 Currently an **AI/ML Intern at RiseAI**
 
 ---
 
@@ -30,23 +31,26 @@
 
 ## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![LangChain](https://img.shields.io/badge/LangChain-2e3a59?style=for-the-badge&logo=ai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-4A154B?style=for-the-badge&logo=microgenetics&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/>
+  <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="OpenCV" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-langchain-an-open-source-framework-for-developing-applications-powered-by-language-models-logo-color-tal-revivo.png" alt="LangChain" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50"/>
+  <img src="https://static.wixstatic.com/media/9bcd6c_c611b30e1a4740b6be99b1967be0cc07~mv2.png" alt="MCP" width="50"/>
+</p>
 
 ---
 
@@ -78,6 +82,5 @@
 ---
 
 ## 💡 Fun Fact
-🧠 I love building intelligent systems that can reason, explain, and assist humans autonomously.
 
----
+🧠 I love building intelligent systems that can reason, explain, and assist humans autonomously.
