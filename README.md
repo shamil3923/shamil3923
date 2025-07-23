@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamil3923)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shamil-b40295253/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrmshamil1786@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white)](https://shamil3923.vercel.app/)
 
@@ -32,41 +32,43 @@
 ## 🔧 Tech Stack
 
 <p align="center">
+
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-  
+
   <!-- Frontend & Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />
-  
+
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  
-  <!-- DevOps & Cloud -->
+
+  <!-- Cloud & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" />
-  
-  <!-- Tools & Platforms -->
+
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Streamlit_logo_vertical_primary_mark.svg" alt="Streamlit" width="40" />
-  
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" />
+
   <!-- AI/ML Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />
-  <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="OpenCV" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" />
 
-  <!-- Custom / Misc -->
-  <img src="https://img.icons8.com/color/48/langchain.png" alt="LangChain" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Vertex_AI_Logo.svg" alt="Gemini/Vertex AI" width="40"/>
-  <img src="https://static.wixstatic.com/media/9bcd6c_c611b30e1a4740b6be99b1967be0cc07~mv2.png" alt="MCP" width="40"/>
+  <!-- Other Tools / Libraries -->
+  <img src="https://raw.githubusercontent.com/dair-ai/Prompt-Engineering-Guide/main/images/langchain-logo.png" alt="LangChain" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Vertex_AI_Logo.svg" alt="Gemini / Vertex AI" width="40" />
+  <img src="https://static.wixstatic.com/media/9bcd6c_c611b30e1a4740b6be99b1967be0cc07~mv2.png" alt="MCP" width="40" />
+
 </p>
 
 ---
