@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 AI/ML Undergraduate  
-- 🌱 Currently exploring **LangGraph, RAG, Gemini APIs, Streamlit, FastAPI**
+- 🌱 Currently exploring **LangGraph, RAG, Gemini APIs, Streamlit, FastAPI,MCP**
 - 👯 Open to collaborate on **AI tools, RAG systems, cloud-native apps**
 - 🚀 Working on: `Hospital Agent` 🏥💡  
 - 🧠 Passionate about research, systems engineering, and AI autonomy
@@ -45,6 +45,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-4A154B?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
