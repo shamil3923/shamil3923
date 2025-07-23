@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamil3923)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamil3923@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrmshamil1786@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white)](https://shamil3923.vercel.app/)
 
 ![Followers](https://img.shields.io/github/followers/shamil3923?label=Followers&style=social)
