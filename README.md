@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shamil</h1>
-<h3 align="center">AI/ML Engineer | GenAI & Agentic Systems Enthusiast | Full-Stack & Cloud Developer</h3>
+<h3 align="center">AI/ML Intern @ RiseAI | GenAI & Agentic Systems Enthusiast | Full-Stack & Cloud Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shamil3923&label=Profile%20views&color=0e75b6&style=flat" alt="shamil3923" />
@@ -32,24 +32,41 @@
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/>
-  <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="OpenCV" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-langchain-an-open-source-framework-for-developing-applications-powered-by-language-models-logo-color-tal-revivo.png" alt="LangChain" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50"/>
-  <img src="https://static.wixstatic.com/media/9bcd6c_c611b30e1a4740b6be99b1967be0cc07~mv2.png" alt="MCP" width="50"/>
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  
+  <!-- Frontend & Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />
+  
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+  
+  <!-- DevOps & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" />
+  
+  <!-- Tools & Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Streamlit_logo_vertical_primary_mark.svg" alt="Streamlit" width="40" />
+  
+  <!-- AI/ML Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />
+  <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="OpenCV" width="40"/>
+
+  <!-- Custom / Misc -->
+  <img src="https://img.icons8.com/color/48/langchain.png" alt="LangChain" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Vertex_AI_Logo.svg" alt="Gemini/Vertex AI" width="40"/>
+  <img src="https://static.wixstatic.com/media/9bcd6c_c611b30e1a4740b6be99b1967be0cc07~mv2.png" alt="MCP" width="40"/>
 </p>
 
 ---
