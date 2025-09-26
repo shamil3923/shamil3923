@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shamil</h1>
-<h3 align="center">AI/ML Intern @ RiseAI | GenAI & Agentic Systems Enthusiast | Full-Stack & Cloud Developer</h3>
+<h3 align="center">AI/ML Intern @ Codegen | GenAI & Agentic Systems Enthusiast | Full-Stack & Cloud Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shamil3923&label=Profile%20views&color=0e75b6&style=flat" alt="shamil3923" />
@@ -14,7 +14,7 @@
 - 👯 Open to collaborate on **Agentic systems, cloud-native GenAI apps, and AI tooling**
 - 🚀 Working on: `Hospital Agent` 🏥💡  
 - 🧠 Passionate about research, system design, and autonomous AI
-- 💼 Currently an **AI/ML Intern at RiseAI**
+- 💼 Currently an **AI/ML Intern at Codegen**
 
 ---
 
@@ -74,10 +74,14 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Hospital Agent](https://github.com/shamil3923/Hospital_agent) | RAG + Gemini-based autonomous hospital bed management agent | LangGraph, ChromaDB, Streamlit, FastAPI |
+| [Hospital Management System](https://github.com/arivanan0218/hospital-management-system) | Comprehensive hospital management platform with FastAPI backend, React frontend, autonomous AI agents for bed, room, and discharge management, and AWS-ready CI/CD | FastAPI, React, Docker, PostgreSQL, AWS, GitHub Actions |
+| [Hospital Agent](https://github.com/shamil3923/Hospital_agent) | AI-powered autonomous hospital bed management system with MCP integration and real-time monitoring | LangGraph, LangChain, ChromaDB, FastAPI, React, Gemini 2.5, MCP Protocol, WebSocket |
+| Carbon Footprint Monitoring System | AI-assisted carbon footprint monitoring system analyzing CO2e emissions in food supply chain for sustainability | React.js, Node.js, Spring Boot, MySQL, Scikit-Learn, Google Cloud |
 | [PDF QA Generator](https://github.com/shamil3923/pdf-qa-tool) | Multi-PDF quiz and QA generator using Gemini API | LangChain, FAISS, Streamlit |
 | [Sign Language Recognition](https://github.com/shamil3923/sign-language-yolo) | YOLO + Fuzzy logic to interpret sign language gestures | YOLO, OpenCV, Python |
 | [Leave Management System](https://github.com/shamil3923/leave-ai) | AI-powered leave tracker and bot | Gemini API, FastAPI, SQLite |
+| [Hospital Agent](https://github.com/shamil3923/Hospital_agent) | AI-powered autonomous hospital bed management system with MCP integration and real-time monitoring | LangGraph, LangChain, ChromaDB, FastAPI, React, Gemini 2.5, MCP Protocol, WebSocket |
+
 
 ---
 
