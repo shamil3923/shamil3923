@@ -74,7 +74,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Hospital Management System](https://github.com/arivanan0218/hospital-management-system) | Comprehensive hospital management platform with FastAPI backend, React frontend, autonomous AI agents for bed, room, and discharge management, and AWS-ready CI/CD | FastAPI, React, Docker, PostgreSQL, AWS, GitHub Actions |
+| [Hospital Management System](https://github.com/arivanan0218/hospital-management-system) |Multi-agent, MCP-compatible hospital management system with LangGraph-powered intelligent workflow orchestration and advanced agent functionalities | MCP (Model Context Protocol), LangGraph, FastAPI, multi-agent orchestration, real-time clinical decision support, intelligent patient admission, RAG, LangChain, SQLAlchemy |
 | [Hospital Agent](https://github.com/shamil3923/Hospital_agent) | AI-powered autonomous hospital bed management system with MCP integration and real-time monitoring | LangGraph, LangChain, ChromaDB, FastAPI, React, Gemini 2.5, MCP Protocol, WebSocket |
 | [WhatsApp Sales Agent](https://github.com/shamil3923/whatsapp_sales_agent) | AI-powered WhatsApp sales agent with real-time currency conversion and automated customer support | Google Gemini 2.0, WhatsApp Business API, Streamlit, Flask, DuckDuckGo Search |
 | [Carbon Footprint Monitoring System](https://github.com/shamil3923/Carbon-Footprint-Monitoring-Platform) | AI-assisted carbon footprint monitoring system analyzing CO2e emissions in food supply chain for sustainability | React.js, Node.js, Spring Boot, MySQL, Scikit-Learn, Google Cloud |
