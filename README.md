@@ -22,7 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shamil-b40295253/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrmshamil1786@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white)](https://shamil3923.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white)](https://shamil3923.github.io/portfolio_Shamil/)
 
 ![Followers](https://img.shields.io/github/followers/shamil3923?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/shamil3923?label=Stars&style=social)
